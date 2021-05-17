@@ -1,0 +1,10 @@
+let firstName = "Aseel";
+let lastName="Elm";
+let age=10;
+let  dateOfBirth= "05/01/2010";
+let address= "Saratoga Place";
+ console.log("Firstname: ", firstName  );
+ console.log("Lastname: ", lastName);
+ console.log("Age: ", age,);
+ console.log("Date of birth: ",dateOfBirth);
+ console.log("Address", address);

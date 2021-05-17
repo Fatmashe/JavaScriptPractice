@@ -1,0 +1,10 @@
+var firstName = "Aseel";
+var lastName="Elm";
+ var age=10;
+var  DodateOfBirth= "05/01/2010";
+ var address= "Saratoga Place";
+ console.log(firstName  );
+ console.log(lastName);
+ console.log(age,);
+ console.log(dateOfBirth);
+ console.log(address);
